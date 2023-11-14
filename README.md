@@ -1,2 +1,2 @@
 # ChatApplication-Swing
- Sử dụng java socket. multi-thread và swing để làm ứng dụng chat client-server
+ Using Java Socket, Multi-threading and Java Swing to create a client-server chat
